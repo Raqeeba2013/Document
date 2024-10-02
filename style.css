@@ -1,0 +1,51 @@
+body {
+    font-family: sans-serif;
+    background: #f3eeac;
+}
+
+div {
+    margin: 75px;
+    border: 1px solid black;
+    background: #ffff;
+}
+
+.first-fieldset {
+    margin: 12px;
+}
+
+.my label {
+    margin: 12px;
+}
+
+.container {
+    text-align: center;
+    margin: 12px;
+}
+
+.margin {
+    margin-left: 10px;
+}
+
+.second-fieldset {
+    margin-top: 12px;
+    margin: 12px;
+}
+
+.third-fieldset {
+    margin-top: 12px;
+    margin: 12px;
+}
+
+.fourth-fieldset {
+    margin: 12px;
+}
+
+.area {
+    display: none;
+}
+
+.file {
+    background-color: red;
+    color: white;
+    cursor: pointer;
+}
